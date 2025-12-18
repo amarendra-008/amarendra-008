@@ -4,8 +4,6 @@
 
 **Building web applications and compilers**
 
-CS Student · San Diego
-
 [![GitHub](https://img.shields.io/badge/GitHub-amarendra--008-181717?style=flat&logo=github)](https://github.com/amarendra-008)
 
 </div>
