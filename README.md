@@ -4,7 +4,8 @@
 
 I build web applications and compilers — from React frontends to custom C-to-MIPS toolchains.
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarendra-mishra-3a7b69287/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarendram793@gmail.com)
 
 ---
 
@@ -40,34 +41,28 @@ I build web applications and compilers — from React frontends to custom C-to-M
 **Tools & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### [DevScribe](https://github.com/amarendra-008/DevScribe)
-Automated changelog and README generation with GitHub sync
-`TypeScript` `GitHub API` `Automation`
-
-
-### [litecc](https://github.com/amarendra-008/litecc)
-Lightweight C to MIPS compiler built from scratch
-`Python` `MIPS` `Compiler Construction`
-
-### [books-api](https://github.com/amarendra-008/books-api)
-RESTful API with JWT authentication, PostgreSQL, and user ownership
-`TypeScript` `Express` `PostgreSQL` `JWT`
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**DevScribe**](https://github.com/amarendra-008/DevScribe) | AI-powered README & changelog generator with GitHub sync | React, TypeScript, Express, Supabase |
+| [**litecc**](https://github.com/amarendra-008/litecc) | C to MIPS compiler built from scratch with lexer, parser & code gen | Python, MIPS Assembly |
+| [**books-api**](https://github.com/amarendra-008/books-api) | Production REST API with JWT auth, testing, CI/CD, Swagger docs | TypeScript, Express, PostgreSQL |
+| [**Cookie-Theft-Detector**](https://github.com/amarendra-008/Cookie-Theft-Detector) | macOS security tool detecting browser cookie theft attempts | Python, Security |
 
 ---
 
-## What I'm Working On
+## What Sets Me Apart
 
-- Building full-stack applications with modern TypeScript tooling
-- Exploring compiler optimization techniques
-- Contributing to open source projects
+- **Systems depth**: Built a compiler from scratch (lexer → parser → MIPS code gen)
+- **Production practices**: CI/CD, testing, Docker, API documentation
+- **Security awareness**: Developed defensive security monitoring tools
+- **Full-stack capability**: React frontends to Express/PostgreSQL backends
 
 ---
 
@@ -75,9 +70,5 @@ RESTful API with JWT authentication, PostgreSQL, and user ownership
 
 I'm actively seeking **internship opportunities** for Summer 2025. If you're looking for someone who can work across the stack and enjoys diving into low-level systems, let's chat!
 
-- Email: amarendram793@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
----
-
-
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarendra-mishra-3a7b69287/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarendram793@gmail.com)
