@@ -51,9 +51,6 @@ I build web applications and compilers — from React frontends to custom C-to-M
 Automated changelog and README generation with GitHub sync
 `TypeScript` `GitHub API` `Automation`
 
-### [toycc](https://github.com/amarendra-008/toycc)
-C to MIPS compiler with custom lexer, parser, and code generator
-`Python` `Compiler Design` `Lexical Analysis`
 
 ### [litecc](https://github.com/amarendra-008/litecc)
 Lightweight C to MIPS compiler built from scratch
