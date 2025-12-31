@@ -4,9 +4,7 @@
 
 I build web applications and compilers — from React frontends to custom C-to-MIPS toolchains.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+
 
 ---
 
@@ -65,9 +63,6 @@ Lightweight C to MIPS compiler built from scratch
 RESTful API with JWT authentication, PostgreSQL, and user ownership
 `TypeScript` `Express` `PostgreSQL` `JWT`
 
-### [SimpleAuth](https://github.com/amarendra-008/SimpleAuth)
-JWT authentication system with bcrypt hashing and protected routes
-`TypeScript` `Node.js` `JWT` `Security`
 
 ---
 
@@ -83,10 +78,9 @@ JWT authentication system with bcrypt hashing and protected routes
 
 I'm actively seeking **internship opportunities** for Summer 2025. If you're looking for someone who can work across the stack and enjoys diving into low-level systems, let's chat!
 
-- Email: YOUR_EMAIL
-- LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
+- Email: amarendram793@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarendra-008&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
