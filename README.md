@@ -13,7 +13,7 @@ I build web applications and compilers — from React frontends to custom C-to-M
 
 - Currently pursuing Computer Science at SDSU
 - Interested in **systems programming**, **full-stack development**, and **AI integration**
-- Looking for **Summer 2025 SWE internships**
+- Looking for **Summer 2026 SWE internships**
 
 ---
 
@@ -68,7 +68,7 @@ I build web applications and compilers — from React frontends to custom C-to-M
 
 ## Let's Connect
 
-I'm actively seeking **internship opportunities** for Summer 2025. If you're looking for someone who can work across the stack and enjoys diving into low-level systems, let's chat!
+I'm actively seeking **internship opportunities** for Summer 2026. If you're looking for someone who can work across the stack and enjoys diving into low-level systems, let's chat!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarendra-mishra-3a7b69287/)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarendram793@gmail.com)
